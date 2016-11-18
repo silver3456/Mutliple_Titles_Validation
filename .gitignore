@@ -1,0 +1,6 @@
+#Ignore TARGET
+
+target/
+.classpath
+.settings/
+.project
